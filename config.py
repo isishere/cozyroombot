@@ -1,0 +1,11 @@
+# TELEGRAM API
+TOKEN_TEST = '2054810842:AAGfrBhVqfR4f82KVMmCI4mbAQPegJLymgk'  # CozyRoom - Test
+TOKEN = '2127304741:AAEKRwh13r2PHKQnI9hyvD6EXm22bg7qrL8'  # CozyRoom
+
+# SPOTIFY API
+CLIENT_ID = 'de012964ebf2451e9497483bcfc5c8f3'
+CLIENT_SECRET = '5dfa56d1c86341318c482f05327c81a0'
+TOKEN_URL = 'https://accounts.spotify.com/api/token'
+
+# GENIUS API
+# ...
