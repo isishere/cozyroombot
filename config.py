@@ -1,10 +1,12 @@
+# !!edited all the values of the tokens in a random way!!
+
 # TELEGRAM API
-TOKEN_TEST = '2054810842:AAGfrBhVqfR4f82KVMmCI4mbAQPegJLymgk'  # CozyRoom - Test
-TOKEN = '2127304741:AAEKRwh13r2PHKQnI9hyvD6EXm22bg7qrL8'  # CozyRoom
+TOKEN_TEST = '237823253452362:AAGfrBhVTFYgtvg2v3f2fCI4mbAQPegJLymgk'  # CozyRoom - Test
+TOKEN = '3274383243829384:GUYKGGKHKchh5rfvgnI9hyvD6EXm22bg7qrL8'  # CozyRoom
 
 # SPOTIFY API
-CLIENT_ID = 'de012964ebf2451e9497483bcfc5c8f3'
-CLIENT_SECRET = '5dfa56d1c86341318c482f05327c81a0'
+CLIENT_ID = 'gydsgdfjdsf55dfsdfd6s6dd5f6rd5s56fdftsdkl43jl3'
+CLIENT_SECRET = 'h343kj423v4e5dad1kh1bkbjk248dsda9dua8sd'
 TOKEN_URL = 'https://accounts.spotify.com/api/token'
 
 # GENIUS API
